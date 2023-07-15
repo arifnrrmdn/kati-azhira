@@ -1,0 +1,49 @@
+
+.btn-nav {
+    color:white;
+}
+
+.btn-nav:hover {
+    color: #c88998;
+}
+
+.video-yt {
+    width: 100%;
+}
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+ li .Socila-media {
+    font-weight: bold;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  .content {
+    flex: 1;
+  }
+  
+  .footer {
+    background-color: #FFF0FA;
+    padding: 20px;
+  }
+
+  .float-left {
+    float: left;
+    margin-right: 10px; /* Untuk memberikan jarak antara gambar dan teks */
+}
+
+.float-right {
+    float: right;
+    margin-left: 10px; /* Untuk memberikan jarak antara gambar dan teks */
+}
+  
